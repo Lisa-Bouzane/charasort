@@ -1522,7 +1522,7 @@ dataSet[dataSetVersion].characterData = [
 
   {
     name: "Two Red Dots",
-    img: "Ev3sMr2.png",
+    img: "rsm0Haf.png",
     opts: { 
       series: ["SoEW"], 
       stage: ["st6", "ex"], 
