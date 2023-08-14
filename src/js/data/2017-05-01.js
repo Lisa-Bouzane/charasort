@@ -661,7 +661,10 @@ dataSet[dataSetVersion].characterData = [
     img: "wxE7cBm.png",
     opts: { series: ["SoEW", "PoDD", "LLS", "MS"], stage: ["st4"], pc98: true }
   },
-  { name: "Ellen", img: "3iNNL0c.png", opts: { series: ["PoDD"], stage: [] } },
+  { 
+    name: "Ellen", 
+    img: "3iNNL0c.png", 
+    opts: { series: ["PoDD"], stage: [] } },
   {
     name: "Kotohime",
     img: "kRSGtpq.png",
